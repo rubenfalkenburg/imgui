@@ -19,7 +19,7 @@ project "imgui"
         "imgui.h",
         "imstb_rectpack.h",
         "imstb_textedit.h",
-        "imstb_truetype.h"
+        "imstb_truetype.h",
     }
 
     filter "system:windows"
